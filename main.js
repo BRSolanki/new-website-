@@ -1,2 +1,3 @@
-console.log('Hello World!');
-,
+array.forEach(element => {
+    console.log('Hello World!'
+}););
